@@ -1,4 +1,4 @@
-<img width="273" height="473" alt="{4497061B-E9AB-4ADE-AEAB-BF880D987C5B}" src="https://github.com/user-attachments/assets/e2a878b1-f055-49f0-88fb-a37a119697b2" /># JIG - By Cookieblizz
+# JIG - By Cookieblizz
 
 JIG is a very easy coding language, inspired by Lua and Python
 
