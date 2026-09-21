@@ -89,6 +89,12 @@ if X < 5
 | otherwise text: " hi "
 ```
 
+### 10. ' onclick '
+The ' onclick ' command executes another command when a specific variable is clicked (Ex: Button in games)
+Example:
+``` JIG
+onclick: text: " hello world "
+```
 
 ### NESTING
 In JIG, ' | ' is used for nesting, it works like the indent line from Roblox Studio etcetera...
